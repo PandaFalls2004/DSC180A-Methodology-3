@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Kendall Underwood
-keunderwood@ucsd.edu
+Kendall Underwood and Wan-Rong Leung
+
